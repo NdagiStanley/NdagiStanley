@@ -131,7 +131,7 @@
 - ***Github profile summary*** <a href="https://profile-summary-for-github.com/user/ndagistanley">https://profile-summary-for-github.com/user/ndagistanley</a>
 
 <p>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ndagistanley&theme=blueberry" alt="Ndagistanley's GitHub stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ndagistanley&theme=blueberry" alt="Ndagistanley's GitHub stats" width=95% />
 </p>
 
 <p>
