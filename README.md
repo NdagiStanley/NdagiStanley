@@ -118,21 +118,15 @@
 </details>
 <br>
 
-### Coding Stats - Last 7 Days
+### My Coding Stats
 
 <!--START_SECTION:waka-->
-```text
-Dart          92 hrs 56 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀   94.72 % 
-YAML          1 hr 26 mins    ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.47 % 
-C++           1 hr 17 mins    ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.32 % 
-C             51 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.88 % 
-Objective-C   31 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.53 % 
-```
+
 <!--END_SECTION:waka-->
 
 ### GitHub Stats
 
-**NB**: <i>I also push code to Bitbucket and Gitlab.
+**NB**: <i>I also push code to Bitbucket and Gitlab. Hence this is non-inclusive.
 
 - ***Github profile summary*** <a href="https://profile-summary-for-github.com/user/ndagistanley">https://profile-summary-for-github.com/user/ndagistanley</a>
 
