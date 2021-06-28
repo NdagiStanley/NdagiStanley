@@ -17,16 +17,18 @@
 
 - Tinkerer | Writer | Digerati*
 
+*Digerati - (Digital + literati) Literate in the digital space
+
 ## My journey
 
-- [My CV/Resume](https://stanmd.tk/cv)
-<!-- TODO Update stackoverflow story -->
-<!-- https://stackoverflow.com/story/ndagistanley -->
+- [My CV/ Resume](https://stanmd.tk/cv)
+- [My Dev Story](https://stackoverflow.com/story/ndagistanley)
 - [Blog](https://blog.stanmd.tk)
 
 ### Worthy mentions
 
-- 🏅 My team listed among top 8 finalists in F8 Hackathon 2019. [Project Brief here](https://devpost.com/software/the-city-watch)
+- 🏅 My team listed among top 8 finalists in F8 Hackathon 2019 - [Project Brief](https://devpost.com/software/the-city-watch)
+- ✍️ [My author page](https://circleci.com/blog/author/stanley-ndagi/) on CircleCI blog
 
 ## Code/ Tech
 
@@ -38,7 +40,10 @@
 [![C Badge](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&labelColor=black&logo=C)](https://www.geeksforgeeks.org/c-programming-language/)
 
 <details>
-<summary>Technologies I use and/or champion</summary>
+<summary>Technologies I use and/or champion
+
+(Press/ Click to collapse this)
+</summary>
 <br>
 
 [![Django Badge](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&labelColor=black&logo=Django)](https://www.djangoproject.com/)
@@ -100,8 +105,16 @@
 </details>
 <br>
 
+### Projects I've authored and/or maintain
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NdagiStanley&repo=vue-django&theme=blueberry)](https://github.com/NdagiStanley/vuedjango)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NdagiStanley&repo=lifebuoy&theme=blueberry)](https://github.com/NdagiStanley/lifebuoy)
+
 <details>
-<summary>OpenSource contributions so far</summary>
+<summary>OpenSource contributions so far
+
+(Press/ Click to collapse this)
+</summary>
 <br>
 
 - GDG Wisdom: [gdg-wisdom/wisdom-2016](https://github.com/gdg-wisdom/wisdom-2016/pulls?q=is%3Apr+author%3ANdagiStanley) (2016)
@@ -121,7 +134,7 @@
 </details>
 <br>
 
-### My Coding Stats
+## My Coding Stats
 
 <!--START_SECTION:waka-->
 
@@ -129,12 +142,12 @@
 
 ### GitHub Stats
 
-**NB**: <i>I also push code to Bitbucket and Gitlab. Hence this is non-inclusive.
+**NB**: <i>Besides GitHub, I also push code to Bitbucket and Gitlab. Below are my GitHub stats.</i>
 
-- ***Github profile summary*** <a href="https://profile-summary-for-github.com/user/ndagistanley">https://profile-summary-for-github.com/user/ndagistanley</a>
+***GitHub profile summary*** [here](https://profile-summary-for-github.com/user/ndagistanley).
 
 <p>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ndagistanley&theme=blueberry" alt="Ndagistanley's GitHub stats" width=30%/>
-<img src="https://github-readme-stats.vercel.app/api?username=ndagistanley&count_private=true&show_icons=true&theme=blueberry" width=35% height="200px"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndagistanley&show_icons=true&layout=compact&cache_seconds=1800&langs_count=8&theme=blueberry&count_private=true&show_icons=true" width=30% height="200px"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ndagistanley&theme=blueberry" alt="NdagiStanley's GitHub stats" width=95%/>
+<img src="https://github-readme-stats.vercel.app/api?username=ndagistanley&count_private=true&show_icons=true&theme=blueberry" width=55% height="200px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndagistanley&show_icons=true&layout=compact&cache_seconds=1800&langs_count=8&theme=blueberry&count_private=true&show_icons=true" width=40% height="200px"/>
 </p>
