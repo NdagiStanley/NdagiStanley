@@ -38,13 +38,15 @@
 [![C Badge](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&labelColor=black&logo=C)](https://www.geeksforgeeks.org/c-programming-language/)
 
 <details>
-<summary>Technologies I use and/or champion | Tech Stack</summary>
+<summary>Technologies I use and/or champion</summary>
 <br>
 
 [![Django Badge](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&labelColor=black&logo=Django)](https://www.djangoproject.com/)
 [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js)](https://nodejs.org/)
 [![Vuejs Badge](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&labelColor=black&logo=Vue.js)](https://vuejs.org/)
+[![Quasar Badge](https://img.shields.io/badge/-Quasar-1976D2?style=for-the-badge&labelColor=black&logo=Quasar)](https://quasar.dev/introduction-to-quasar/)
 [![Laravel Badge](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&labelColor=black&logo=Laravel)](https://laravel.com/)
+[![Bootstrap Badge](https://img.shields.io/badge/-Bootstrap-FF2D20?style=for-the-badge&labelColor=black&logo=Bootstrap)](https://bootstrap.com/)
 
 [![CircleCI Badge](https://img.shields.io/badge/-CircleCI-343434?style=for-the-badge&labelColor=black&logo=CircleCI)](https://circleci.com/blog)
 
@@ -80,13 +82,14 @@
 [![Google Cloud Badge](https://img.shields.io/badge/-Google_Cloud-4285F4?style=for-the-badge&labelColor=black&logo=GoogleCloud)](https://cloud.google.com/docs)
 [![Netlify Badge](https://img.shields.io/badge/-Netlify-00C7B7?style=for-the-badge&labelColor=black&logo=Netlify)](http://docs.netlify.com/)
 [![DigitalOcean Badge](https://img.shields.io/badge/-DigitalOcean-0080FF?style=for-the-badge&labelColor=black&logo=DigitalOcean)](https://www.digitalocean.com/community/tutorials)
-[![Heroku Badge](https://img.shields.io/badge/-Heroku-430098?style=for-the-badge&labelColor=black&logo=Heroku)](https://heroku.com/)
+[![Heroku Badge](https://img.shields.io/badge/-Heroku-430098?style=for-the-badge&labelColor=black&logo=Heroku)](https://devcenter.heroku.com/start)
 [![Amazon AWS Badge](https://img.shields.io/badge/-Amazon_AWS-232F3E?style=for-the-badge&labelColor=black&logo=AmazonAWS)](https://aws.amazon.com/)
 
 [![edX Badge](https://img.shields.io/badge/-edX-02262B?style=for-the-badge&labelColor=black&logo=edX)](https://www.edx.org/)
+[![Codecademy Badge](https://img.shields.io/badge/-Codecademy-1F4056?style=for-the-badge&labelColor=black&logo=Codecademy)](https://www.codecademy.com/catalog)
+[![freeCodeCamp Badge](https://img.shields.io/badge/-freeCodeCamp-0A0A23?style=for-the-badge&labelColor=black&logo=freeCodeCamp)](https://www.freecodecamp.org)
 [![Udemy Badge](https://img.shields.io/badge/-Udemy-EC5252?style=for-the-badge&labelColor=black&logo=Udemy)](https://www.udemy.com/)
 [![PluralSight Badge](https://img.shields.io/badge/-PluralSight-F15B2A?style=for-the-badge&labelColor=black&logo=PluralSight)](https://www.pluralsight.com/)
-
 
 [![Anchor Badge](https://img.shields.io/badge/-Anchor-5000B9?style=for-the-badge&labelColor=black&logo=Anchor)](https://anchor.fm/)
 
@@ -131,10 +134,7 @@
 - ***Github profile summary*** <a href="https://profile-summary-for-github.com/user/ndagistanley">https://profile-summary-for-github.com/user/ndagistanley</a>
 
 <p>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ndagistanley&theme=blueberry" alt="Ndagistanley's GitHub stats" width=95% />
-</p>
-
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=ndagistanley&count_private=true&show_icons=true&theme=blueberry" width=55% height="200px"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndagistanley&show_icons=true&layout=compact&cache_seconds=1800&langs_count=8&theme=blueberry&count_private=true&show_icons=true" width=40% height="200px"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ndagistanley&theme=blueberry" alt="Ndagistanley's GitHub stats" width=30%/>
+<img src="https://github-readme-stats.vercel.app/api?username=ndagistanley&count_private=true&show_icons=true&theme=blueberry" width=35% height="200px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndagistanley&show_icons=true&layout=compact&cache_seconds=1800&langs_count=8&theme=blueberry&count_private=true&show_icons=true" width=30% height="200px"/>
 </p>
