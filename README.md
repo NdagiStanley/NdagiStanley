@@ -1,11 +1,23 @@
 # 🖐  Hello World
 
+<h3 align="center">I'm Stanley Ndagi <i>alias StanMD</i></h2>
+
+<p align="center">
+  <a href="https://stanmd.tk/cv">CV/ Resume</a> •
+  <a href="https://blog.stanmd.tk">Blog</a> •
+  <a href="https://stackoverflow.com/story/ndagistanley">Dev Story</a>
+</p>
+
+<br>
+
 <img src="https://stanmd.tk/images/terminal.gif" alt="NdagiStanley's terminal" width=95%/>
 
 - 🇰🇪 Kenyan (by birth) & 🌍 identify as a global citizen!
 - 😄 Pronouns: He/Him
 - 📫 Want to reach me? DM (Direct Message) me on [Twitter - @NdagiStanley](https://twitter.com/NdagiStanley)
-- [More about me](https://stanmd.tk/me).
+- [More about me](https://stanmd.tk/me)
+
+## My journey
 
 ### Profession
 
@@ -16,13 +28,7 @@
 
 - Tinkerer | Writer | Digerati*
 
-*Digerati - (Digital + literati) Literate in the digital space
-
-## My journey
-
-- [My CV/ Resume](https://stanmd.tk/cv)
-- [My Dev Story](https://stackoverflow.com/story/ndagistanley)
-- [Blog](https://blog.stanmd.tk)
+    *Digerati - (Digital + literati) Literate in the digital space
 
 ### Worthy mentions
 
@@ -158,3 +164,7 @@ JSON         21 mins         ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 <img src="https://github-readme-stats.vercel.app/api?username=ndagistanley&count_private=true&show_icons=true&theme=blueberry" width=55% height="200px"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndagistanley&show_icons=true&layout=compact&cache_seconds=1800&langs_count=8&theme=blueberry&count_private=true&show_icons=true" width=40% height="200px"/>
 </p>
+
+---
+
+GitHub Profile [credits](/CREDITS)
