@@ -3,6 +3,7 @@
 <h3 align="center">I'm Stanley Ndagi <i>alias StanMD</i></h2>
 
 <p align="center">
+  <a href="https://stanmd.tk">Web profile</a> •
   <a href="https://stanmd.tk/cv">CV/ Resume</a> •
   <a href="https://blog.stanmd.tk">Blog</a> •
   <a href="https://stackoverflow.com/story/ndagistanley">Dev Story</a>
