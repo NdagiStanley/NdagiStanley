@@ -1,0 +1,139 @@
+# The configurations that used for the recording, feel free to edit them
+config:
+
+  # Specify a command to be executed
+  # like `/bin/bash -l`, `ls`, or any other commands
+  # the default is bash for Linux
+  # or powershell.exe for Windows
+  command: zsh
+  
+  # Specify the current working directory path
+  # the default is the current working directory path
+  cwd: /Users/stanmd/Projects/NdagiStanley
+  
+  # Export additional ENV variables
+  env:
+    recording: true
+  
+  # Explicitly set the number of columns
+  # or use `auto` to take the current
+  # number of columns of your shell
+  cols: 79
+  
+  # Explicitly set the number of rows
+  # or use `auto` to take the current
+  # number of rows of your shell
+  rows: 10
+  
+  # Amount of times to repeat GIF
+  # If value is -1, play once
+  # If value is 0, loop indefinitely
+  # If value is a positive number, loop n times
+  repeat: 0
+  
+  # Quality
+  # 1 - 100
+  quality: 100
+  
+  # Delay between frames in ms
+  # If the value is `auto` use the actual recording delays
+  frameDelay: auto
+  
+  # Maximum delay between frames in ms
+  # Ignored if the `frameDelay` isn't set to `auto`
+  # Set to `auto` to prevent limiting the max idle time
+  maxIdleTime: 2000
+  
+  # The surrounding frame box
+  # The `type` can be null, window, floating, or solid`
+  # To hide the title use the value null
+  # Don't forget to add a backgroundColor style with a null as type
+  frameBox:
+    type: floating
+    title: About Me
+    style:
+      border: 0px black solid
+      # boxShadow: none
+      # margin: 0px
+  
+  # Add a watermark image to the rendered gif
+  # You need to specify an absolute path for
+  # the image on your machine or a URL, and you can also
+  # add your own CSS styles
+  watermark:
+    imagePath: https://stanmd.tk/he_.png
+    style:
+      position: absolute
+      right: 15px
+      bottom: 15px
+      width: 100px
+      opacity: 0.9
+  
+  # Cursor style can be one of
+  # `block`, `underline`, or `bar`
+  cursorStyle: bar
+  
+  # Font family
+  # You can use any font that is installed on your machine
+  # in CSS-like syntax
+  fontFamily: "Fira Code, DroidSansMono Nerd Font, Fantasque sans mono, Menlo"
+  
+  # The size of the font
+  fontSize: 12
+  
+  # The height of lines
+  lineHeight: 1
+  
+  # The spacing between letters
+  letterSpacing: 0
+  
+  # Theme
+  theme:
+    background: "transparent"
+    foreground: "#afafaf"
+    cursor: "#c7c7c7"
+    black: "#232628"
+    red: "#fc4384"
+    green: "#b3e33b"
+    yellow: "#ffa727"
+    blue: "#75dff2"
+    magenta: "#ae89fe"
+    cyan: "#708387"
+    white: "#d5d5d0"
+    brightBlack: "#626566"
+    brightRed: "#ff7fac"
+    brightGreen: "#c8ed71"
+    brightYellow: "#ebdf86"
+    brightBlue: "#75dff2"
+    brightMagenta: "#ae89fe"
+    brightCyan: "#b1c6ca"
+    brightWhite: "#f9f9f4"
+  
+# Records, feel free to edit them
+records:
+  - delay: 435
+    content: "\e[01;32m\U0001F604  Rafiki, shikilia uzito!  \e[01;31m\U0001F611  Kaa rada!\r\n"
+  - delay: 561
+    content: "\e[1m\e[7m%\e[27m\e[1m\e[0m                                                                              \r \r\e]2;stanmd@silicon_savanah:~/Projects/NdagiStanley\a\e]1;../NdagiStanley\a"
+  - delay: 91
+    content: "\r\e[0m\e[27m\e[24m\e[J\e[01;32m\U0001F604  \e[36mstanmd@silicon_savanah\e[00m ~/Projects/NdagiStanley \e[01;34mgit:(\e[31mdevelop\e[34m) \e[33m✗\e[00m  \r\n\U0001F449  \e[K\e[?1h\e=\e[?2004h"
+  - delay: 1560
+    content: "\e[32me\e[39m\e[90mcho \" xsldk\e[39m\r\r\n\e[K\e[A\e[5C\e[1B\r\e[K\e[A\e[5C"
+  - delay: 295
+    content: "\b\e[1m\e[31me\e[1m\e[31mc\e[0m\e[39m"
+  - delay: 61
+    content: "\b\b\e[1m\e[31me\e[1m\e[31mc\e[1m\e[31mh\e[0m\e[39m"
+  - delay: 203
+    content: "\b\b\b\e[0m\e[32me\e[0m\e[32mc\e[0m\e[32mh\e[32mo\e[39m"
+  - delay: 270
+    content: "\e[39m "
+  - delay: 1397
+    content: "\e[33m\"\e[39m"
+  - delay: 1484
+    content: "\e[39m \e[39m \e[39m \e[39m \e[39m \e[39m \e[1B\r\e[K\e[A\e[10C\e[?1l\e>\e[?2004l\e[1B\r\r\e[0m\e[27m\e[24m\e[Jdquote> \e[K\e[?1h\e=\e[?2004h"
+  - delay: 1793
+    content: "\e[?2004l\r\r\n\e[1m\e[7m%\e[27m\e[1m\e[0m                                                                              \r \r\e]2;stanmd@silicon_savanah:~/Projects/NdagiStanley\a\e]1;../NdagiStanley\a"
+  - delay: 101
+    content: "\r\e[0m\e[27m\e[24m\e[J\e[01;31m\U0001F611  \e[36mstanmd@silicon_savanah\e[00m ~/Projects/NdagiStanley \e[01;34mgit:(\e[31mdevelop\e[34m) \e[33m✗\e[00m  \r\n\U0001F449  \e[K\e[?1h\e=\e[?2004h"
+  - delay: 2957
+    content: "\e[?2004l\r\r\n"
