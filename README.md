@@ -1,6 +1,6 @@
 # Hi
 
-## About me
+<img src="https://stanmd.tk/images/terminal.gif" alt="NdagiStanley's terminal" width=95%/>
 
 - 🖐️ I'm Stanley Ndagi (Stan for short)
 - 🇰🇪 Kenyan (by birth) & 🌍 identify as a global citizen!
