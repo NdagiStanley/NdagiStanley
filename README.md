@@ -168,4 +168,4 @@ YAML         56 mins         ⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 ---
 
-GitHub Profile [credits](/CREDITS)
+GitHub Profile [credits](/CREDITS.md)
