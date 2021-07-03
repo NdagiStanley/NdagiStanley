@@ -14,7 +14,6 @@
 <img src="https://stanmd.tk/images/terminal.gif" alt="NdagiStanley's terminal" width=95%/>
 
 - 🇰🇪 Kenyan (by birth) & 🌍 identify as a global citizen!
-- 😄 Pronouns: He/Him
 - 📫 Want to reach me? DM (Direct Message) me on [Twitter - @NdagiStanley](https://twitter.com/NdagiStanley)
 - [More about me](https://stanmd.tk/me)
 
