@@ -143,7 +143,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 23 September, 2021 - 29 September, 2021
+
+Markdown     2 mins          ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀   83.05 % 
 ```
 <!--END_SECTION:waka-->
 
