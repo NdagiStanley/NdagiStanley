@@ -143,7 +143,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 07 November, 2021 - 13 November, 2021
+Week: 08 November, 2021 - 14 November, 2021
 
 JavaScript   7 mins          ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀   60.56 % 
 JSON         3 mins          ⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   27.68 % 
