@@ -3,19 +3,19 @@
 <h3 align="center">I'm Stanley Ndagi <i>alias StanMD</i></h2>
 
 <p align="center">
-  <a href="https://stanmd.tk">Web profile</a> •
-  <a href="https://stanmd.tk/cv">CV/ Resume</a> •
-  <a href="https://blog.stanmd.tk">Blog</a> •
+  <a href="https://stanmd.netlify.app">Web profile</a> •
+  <a href="https://stanmd.netlify.app/cv.pdf">CV/ Resume</a> •
+  <a href="https://stanmd.hashnode.dev">Blog</a> •
   <a href="https://stackoverflow.com/story/ndagistanley">Dev Story</a>
 </p>
 
 <br>
 
-<img src="https://stanmd.tk/images/terminal.gif" alt="NdagiStanley's terminal" width=95%/>
+<img src="https://stanmd.netlify.app/images/terminal.gif" alt="NdagiStanley's terminal" width=95%/>
 
 - 🇰🇪 Kenyan (by birth) & 🌍 identify as a global citizen!
 - 📫 Want to reach me? DM (Direct Message) me on [Twitter - @NdagiStanley](https://twitter.com/NdagiStanley)
-- [More about me](https://stanmd.tk/me)
+- [More about me](https://stanmd.netlify.app/me)
 
 ## My journey
 
