@@ -3,9 +3,9 @@
 <h3 align="center">I'm Stanley Ndagi <i>alias StanMD</i></h2>
 
 <p align="center">
-  <a href="https://stanmd.netlify.app">Web profile</a> •
-  <a href="https://stanmd.netlify.app/cv.pdf">CV/ Resume</a> •
-  <a href="https://stanmd.hashnode.dev">Blog</a> •
+  <a href="https://md.engineer">Web profile</a> •
+  <a href="https://md.engineer/cv.pdf">CV/ Resume</a> •
+  <a href="https://blog.md.engineer">Blog</a> •
   <a href="https://stackoverflow.com/story/ndagistanley">Dev Story</a>
 </p>
 
@@ -15,7 +15,7 @@
 
 - 🇰🇪 Kenyan (by birth) & 🌍 identify as a global citizen!
 - 📫 Want to reach me? DM (Direct Message) me on [Twitter - @NdagiStanley](https://twitter.com/NdagiStanley)
-- [More about me](https://stanmd.netlify.app/me)
+- [More about me](https://md.engineer/me)
 
 ## My journey
 
