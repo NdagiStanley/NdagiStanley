@@ -26,9 +26,11 @@
 
 ### General
 
-- Tinkerer | Writer | Digerati*
+- *Digerati | *Tinkerer | Writer
 
     *Digerati - (Digital + literati) Literate in the digital space
+
+    *Tinkerer - I enjoy fixing and experimenting with machines and their parts (hardware and software)
 
 ### Worthy mentions
 
