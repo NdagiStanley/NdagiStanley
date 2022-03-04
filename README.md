@@ -112,17 +112,13 @@
 </details>
 <br>
 
-### Projects I've authored and/or maintain
+### Projects I've authored and/ or maintain
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NdagiStanley&repo=vue-django&theme=blueberry)](https://github.com/NdagiStanley/vuedjango)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NdagiStanley&repo=lifebuoy&theme=blueberry)](https://github.com/NdagiStanley/lifebuoy)
 
 <details>
-<summary>OpenSource contributions so far
-
-(Press/ Click to collapse this)
-</summary>
-<br>
+### OpenSource contributions so far
 
 - GDG Wisdom: [gdg-wisdom/wisdom-2016](https://github.com/gdg-wisdom/wisdom-2016/pulls?q=is%3Apr+author%3ANdagiStanley) (2016)
 - [afropolymath/restpi](https://github.com/afropolymath/restpi/pull/1/files) (2016)
@@ -138,10 +134,7 @@
 - Quasar.dev: [quasarframework/quasar](https://github.com/quasarframework/quasar/pull/8490) (2021)
 - VueJS: [vuejs/vetur](https://github.com/vuejs/vetur/pull/2928/files) (2021)
 
-</details>
-<br>
-
-## My Coding Stats
+## Coding Stats
 
 <!--START_SECTION:waka-->
 
