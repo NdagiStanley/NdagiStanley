@@ -117,7 +117,6 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NdagiStanley&repo=vue-django&theme=blueberry)](https://github.com/NdagiStanley/vuedjango)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NdagiStanley&repo=lifebuoy&theme=blueberry)](https://github.com/NdagiStanley/lifebuoy)
 
-<details>
 ### OpenSource contributions so far
 
 - GDG Wisdom: [gdg-wisdom/wisdom-2016](https://github.com/gdg-wisdom/wisdom-2016/pulls?q=is%3Apr+author%3ANdagiStanley) (2016)
