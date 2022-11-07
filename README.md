@@ -123,6 +123,8 @@
 - Microsoft: [microsoftgraph/msgraph-sdk-python-core](https://github.com/microsoftgraph/msgraph-sdk-python-core/pull/57/files) (2021)
 - Quasar.dev: [quasarframework/quasar](https://github.com/quasarframework/quasar/pull/8490) (2021)
 - VueJS: [vuejs/vetur](https://github.com/vuejs/vetur/pull/2928/files) (2021)
+- pipx: [pypa/pipx](https://github.com/pypa/pipx/pull/763) (2021)
+- pipx: [pypa/pipx](https://github.com/pypa/pipx/pull/761) (2022)
 - VSCode VSCE: [microsoft/vscode-vsce](https://github.com/microsoft/vscode-vsce/pull/714) (2022)
 
 ## Coding/ Writing Stats
