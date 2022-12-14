@@ -1,10 +1,14 @@
 # 🖐  Hello World
 
-<h3 align="center">I'm Stanley Ndagi <i>alias StanMD</i></h2>
+<h3 align="center">I'm Stanley Ndagi <i>alias StanMD</i></h3>
+
+<p align="center">
+Digerati | Tinkerer
+</p>
 
 <p align="center">
   <a href="https://md.engineer">Web profile</a> •
-  <a href="https://md.engineer/cv.pdf">CV/ Resume</a> •
+  <a href="https://md.engineer/cv">CV/ Resume</a> •
   <a href="https://blog.md.engineer">Blog</a>
 </p>
 
@@ -21,13 +25,14 @@
 ### Profession
 
 - Software Engineer
-- Technical writer
+- Technical Author, Writer, and Copywriter
 
 ### Worthy mentions
 
+- 🤝 Tech community lead - [TechKln](https://techkln.org)
 - ⭐️ GitHub star 2022 - [Profile](https://stars.github.com/profiles/ndagistanley/)
-- 🏅 My team listed among top 8 finalists in F8 Hackathon 2019 - [Project Brief](https://devpost.com/software/the-city-watch)
 - ✍️ Author and Editor on CircleCI blog - [My author page](https://circleci.com/blog/author/stanley-ndagi/)
+- 🏅 My team listed among top 8 finalists in F8 Hackathon 2019 - [Project Brief](https://devpost.com/software/the-city-watch)
 
 ## Code/ Tech
 
