@@ -8,13 +8,15 @@ Digerati | Tinkerer
 
 <p align="center">
   <a href="https://md.engineer">Web profile</a> •
-  <a href="https://md.engineer/cv">CV/ Resume</a> •
+  <a href="https://md.engineer/cv">CV/Resume</a> •
   <a href="https://blog.md.engineer">Blog</a>
 </p>
 
 <br>
 
 <img src="https://stanmd.netlify.app/images/terminal.gif" alt="NdagiStanley's terminal" width=95%/>
+
+<br>
 
 - 🇰🇪 Kenyan (by birth) & 🌍 identify as a global citizen!
 - 📫 Want to reach me? [Contact](https://md.engineer/contact)
