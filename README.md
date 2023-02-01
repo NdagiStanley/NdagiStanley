@@ -26,13 +26,14 @@ Digerati | Tinkerer
 
 ### Profession
 
+- Product and Engineering
 - Software Engineer
 - Technical Author, Writer, and Copywriter
 
 ### Worthy mentions
 
 - 🤝 Tech community lead - [TechKln](https://techkln.org)
-- ⭐️ GitHub star 2022 - [Profile](https://stars.github.com/profiles/ndagistanley/)
+- ⭐️ GitHub star 2022 - present - [Profile](https://stars.github.com/profiles/ndagistanley/)
 - ✍️ Author and Editor on CircleCI blog - [My author page](https://circleci.com/blog/author/stanley-ndagi/)
 - 🏅 My team listed among top 8 finalists in F8 Hackathon 2019 - [Project Brief](https://devpost.com/software/the-city-watch)
 
