@@ -134,6 +134,7 @@ Digerati | Tinkerer
 - pipx: [pypa/pipx](https://github.com/pypa/pipx/pull/763) (2021)
 - pipx: [pypa/pipx](https://github.com/pypa/pipx/pull/761) (2022)
 - VSCode VSCE: [microsoft/vscode-vsce](https://github.com/microsoft/vscode-vsce/pull/714) (2022)
+- OpenTermsArchive docs: [OpenTermsArchive/docs](https://github.com/OpenTermsArchive/docs/pull/38) (2023)
 
 ## Coding/ Writing Stats
 
