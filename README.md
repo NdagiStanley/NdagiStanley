@@ -3,7 +3,7 @@
 <h3 align="center">I'm Stanley Ndagi <i>alias StanMD</i></h3>
 
 <p align="center">
-Digerati | Tinkerer
+Digerati • Steward • Tinkerer
 </p>
 
 <p align="center">
