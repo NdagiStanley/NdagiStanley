@@ -19,8 +19,8 @@ Digerati | Tinkerer
 <br>
 
 - 🇰🇪 Kenyan (by birth) & 🌍 identify as a global citizen!
-- 📫 Want to reach me? [Contact](https://md.engineer/contact)
-- [More about me](https://md.engineer/me)
+- 📫 Want to reach me? [Contact](https://md.engineer/contact/)
+- [More about me](https://md.engineer/about/)
 
 ## My journey
 
