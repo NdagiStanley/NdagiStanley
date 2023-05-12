@@ -9,7 +9,7 @@ Digerati | Tinkerer
 <p align="center">
   <a href="https://md.engineer">Web profile</a> •
   <a href="https://md.engineer/cv">CV/Resume</a> •
-  <a href="https://blog.md.engineer">Blog</a>
+  <a href="https://md.engineer/writing/">Writing</a>
 </p>
 
 <br>
