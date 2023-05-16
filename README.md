@@ -135,7 +135,8 @@ Digerati • Steward • Tinkerer
 - pipx: [pypa/pipx](https://github.com/pypa/pipx/pull/761) (2022)
 - VSCode VSCE: [microsoft/vscode-vsce](https://github.com/microsoft/vscode-vsce/pull/714) (2022)
 - OpenTermsArchive docs: [OpenTermsArchive/docs](https://github.com/OpenTermsArchive/docs/pull/38) (2023)
-- VuePress: [vuepress/awesome-vuepress](https://github.com/vuepress/awesome-vuepress/pull/249) (2023)
+- VuePress: [vuepress/vuepress-next](https://github.com/vuepress/vuepress-next/pull/1331) (2023)
+- Awesome-VuePress: [vuepress/awesome-vuepress](https://github.com/vuepress/awesome-vuepress/pull/249) (2023)
 - DecapCMS: [decaporg/decap-cms](https://github.com/decaporg/decap-cms/pull/6763) (2023)
 
 ## Coding/ Writing Stats
