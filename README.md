@@ -118,7 +118,7 @@ Digerati • Steward • Tinkerer
 
 ### OpenSource contributions so far
 
-- Bitwarden: [passwordless/docs](https://github.com/passwordless/docs/pull/36)
+- Bitwarden: [passwordless/docs](https://github.com/passwordless/docs/pull/36) (2023)
 - DecapCMS: [decaporg/decap-cms](https://github.com/decaporg/decap-cms/pull/6763) (2023)
 - Awesome-VuePress: [vuepress/awesome-vuepress](https://github.com/vuepress/awesome-vuepress/pull/249) (2023)
 - VuePress: [vuepress/vuepress-next](https://github.com/vuepress/vuepress-next/pull/1331) (2023)
