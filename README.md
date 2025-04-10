@@ -1,15 +1,15 @@
 # 🖐  Hello World
 
-<h3 align="center">I'm Stanley Ndagi <i>alias StanMD</i></h3>
+<h3 align="center">I'm Stanley M Ndagi <i>alias StanMD</i></h3>
 
 <p align="center">
 Digerati • Steward • Tinkerer
 </p>
 
 <p align="center">
-  <a href="https://md.engineer">Web profile</a> •
-  <a href="https://md.engineer/cv">CV/Resume</a> •
-  <a href="https://md.engineer/writing/">Writing</a>
+  <a href="https://md.bio">Web profile</a> •
+  <a href="https://md.bio/cv">CV/Resume</a> •
+  <a href="https://md.bio/writing/">Writing</a>
 </p>
 
 <br>
@@ -19,8 +19,8 @@ Digerati • Steward • Tinkerer
 <br>
 
 - 🇰🇪 Kenyan (by birth) & 🌍 identify as a global citizen!
-- 📫 Want to reach me? [Contact](https://md.engineer/contact/)
-- [More about me](https://md.engineer/about/)
+- 📫 Want to reach me? [Contact](https://md.bio/contact/)
+- [More about me](https://md.bio/about/)
 
 ## My journey
 
@@ -33,7 +33,7 @@ Digerati • Steward • Tinkerer
 ### Worthy mentions
 
 - 🤝 Tech community lead - [TechKln](https://techkln.org)
-- ⭐️ GitHub star 2022 - present - [Profile](https://stars.github.com/profiles/ndagistanley/)
+- ⭐️ GitHub star 2022 - 2024 - [Profile](https://stars.github.com/profiles/ndagistanley/)
 - ✍️ Author and Editor on CircleCI blog - [My author page](https://circleci.com/blog/author/stanley-ndagi/)
 - 🏅 My team listed among top 8 finalists in F8 Hackathon 2019 - [Project Brief](https://devpost.com/software/the-city-watch)
 
@@ -159,9 +159,9 @@ No activity tracked
 ***GitHub profile summary*** [here](https://profile-summary-for-github.com/user/ndagistanley).
 
 <p>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ndagistanley&theme=blueberry" alt="NdagiStanley's GitHub stats" width=95%/>
-<img src="https://github-readme-stats.vercel.app/api?username=ndagistanley&count_private=true&show_icons=true&theme=blueberry" width=55% height="200px"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndagistanley&show_icons=true&layout=compact&cache_seconds=1800&langs_count=8&theme=blueberry&count_private=true&show_icons=true" width=40% height="200px"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ndagistanley&theme=blueberry" alt="NdagiStanley's GitHub stats large" width=95%/>
+<img src="https://github-readme-stats.vercel.app/api?username=ndagistanley&count_private=true&show_icons=true&theme=blueberry" alt="NdagiStanley's GitHub stats medium" width=55% height="200px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndagistanley&show_icons=true&layout=compact&cache_seconds=1800&langs_count=8&theme=blueberry&count_private=true&show_icons=true" alt="NdagiStanley's GitHub stats small" width=40% height="200px"/>
 </p>
 
 ---
