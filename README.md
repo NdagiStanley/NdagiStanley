@@ -163,7 +163,6 @@ SCSS         37 mins         ⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 ***GitHub profile summary*** [here](https://profile-summary-for-github.com/user/ndagistanley).
 
 <p>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ndagistanley&theme=blueberry" alt="NdagiStanley's GitHub stats large" width=95%/>
 <img src="https://github-readme-stats.vercel.app/api?username=ndagistanley&count_private=true&show_icons=true&theme=blueberry" alt="NdagiStanley's GitHub stats medium" width=55% height="200px"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndagistanley&show_icons=true&layout=compact&cache_seconds=1800&langs_count=8&theme=blueberry&count_private=true&show_icons=true" alt="NdagiStanley's GitHub stats small" width=40% height="200px"/>
 </p>
